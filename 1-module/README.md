@@ -1,3 +1,3 @@
-# Module 1
+# Material Teórico
 
 ## About this module
