@@ -1,3 +1,3 @@
-# Material Teórico. Diseño de Amplificadores en Microondas
+# Material Teórico. Paràmetros "S".
 
 ## About this module
