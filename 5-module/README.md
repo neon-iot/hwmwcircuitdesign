@@ -1,1 +1,1 @@
-Te´rico. diseño de fitros en microondas
+Diseño de fitros en microondas
