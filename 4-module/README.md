@@ -1,1 +1,1 @@
-Material Teórico. Líneas de transmisión acopladas.
+ Líneas de transmisión acopladas.
