@@ -34,8 +34,7 @@ CST Simulation.
 This course will provide the student with a deep knowledge of the Design of Microwave Devices, in order to allw Her/Him to the development and design of IoT Hardware, as well as a comprehension of the principles of functioning of already existing IoT Hardware Devices and commercially availables.
 
 ## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
+Basic Knowledge of Circuit Design Theory, preferably design with distributed parameters. If required, a brief introductory chapter about transmission lines and distributed circuits design can be provided at the beginning of the course.
 
 
 ***
