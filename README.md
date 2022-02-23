@@ -1,6 +1,9 @@
 # Demo course template
 ## About this course
-This course...
+
+This course deals with the design of Microwave devices that give form to the Hardware asociated to IoT systems, which essentially operates at high frequencies like Microwaves and Milimetric Waves.
+The design is based on distributed parameters and also on the well known Scattering parameters, the "S" parameters.
+Directional Couplers, Amplifiers, Filters, Oacilators, Conerters, Matching Networks, as usually part of the different devices used for IoT, like LoRa, ZeegBee and SDR devices.
 
 ## Main topics
 * This
