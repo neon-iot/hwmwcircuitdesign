@@ -7,7 +7,7 @@ Directional Couplers, Amplifiers, Filters, Oacilators, Conerters, Matching Netwo
 
 ## Main topics
 
-Intruduction to distributes parameters.
+Intruduction to distributed parameters.
 Transmission Lines.
 Coupled Transmission Lines. Even and Odd Modes.
 Matching Networks.
