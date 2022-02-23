@@ -6,8 +6,19 @@ The design is based on distributed parameters and also on the well known Scatter
 Directional Couplers, Amplifiers, Filters, Oacilators, Conerters, Matching Networks, as usually part of the different devices used for IoT, like LoRa, ZeegBee and SDR devices.
 
 ## Main topics
-* This
-* That
+
+Intruduction to distributes parameters.
+Transmission Lines.
+Coupled Transmission Lines. Even and Odd Modes.
+Matching Networks.
+Directional Couplers.
+RF Amplifiers Design. Low Noise Amplifiers (LNA).
+Oscilators.
+Converters.
+Filter Design.
+Microstrip Filters Design.
+CST Simulation.
+
 
 ## What you will learn
 * This
