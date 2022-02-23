@@ -31,9 +31,7 @@ CST Simulation.
 
 
 ## What you will learn
-* This
-* That
-* ...
+This course will provide the student with a deep knowledge of the Design of Microwave Devices, in order to allw Her/Him to the development and design of IoT Hardware, as well as a comprehension of the principles of functioning of already existing IoT Hardware Devices and commercially availables.
 
 ## What you will need:
 * (Replace with list of required skills / knowledge)
