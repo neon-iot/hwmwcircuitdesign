@@ -1,4 +1,4 @@
-# Demo course template
+# Hardware and Microwave Circuit design for IoT
 ## About this course
 
 This course deals with the design of Microwave devices that give form to the Hardware asociated to IoT systems, which essentially operates at high frequencies like Microwaves and Milimetric Waves.
