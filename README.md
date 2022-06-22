@@ -27,7 +27,7 @@ Filter Design.
 
 Microstrip Filters Design.
 
-Splitters y Combiners
+Splitters y Combiners.
 
 CST Simulation.
 
