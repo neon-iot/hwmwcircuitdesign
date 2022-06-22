@@ -1,0 +1,1 @@
+Como un refuerzo para la formación necesaria para desarrollar el curso, se agregan capítulos introductorios sobre las Líneas de Transmisión, el Ábaco de Smith, los métodos de adaptación mas básicos, y el diseño con Microstrip
