@@ -1,3 +1,0 @@
-Realizar una adaptacion con app SMITH (parametros concentrados y distribuidos quizas)
-Simularlas con QUCS
-Compararlas en terminos de ancho de banda
